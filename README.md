@@ -1,6 +1,6 @@
 # Portfolio
 
-
+![Histogram](/images/IMG_3493.jpeg)
 
 ## My skills
 1. I just love **SQL** 
