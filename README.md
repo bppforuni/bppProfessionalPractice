@@ -9,7 +9,7 @@
 
 ## Project
 
-### Link to project [project](https://github.com/AXJAS/knapsack_problem/)
+### Link to project [project](https://github.com/bppforuni/dataScienceProject)
 
 ![Histogram](/images/histogram-example-2.png)
 
